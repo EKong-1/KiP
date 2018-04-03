@@ -1,2 +1,0 @@
-# KiP
-Kitchen In Pocket 
